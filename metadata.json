@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Prana Finance Tracker",
+  "description": "A comprehensive expense and income tracker with multi-profile support, transaction management by cash, credit, and bank, and powerful customization for categories, sources, and currencies. Features AI-powered category suggestions and data backup.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
